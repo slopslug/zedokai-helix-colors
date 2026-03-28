@@ -1064,6 +1064,7 @@
           },
           "comment": {
             "color": "#6b7678",
+            // ADD
             "font_style": "italic"
           },
           "comment.doc": {
@@ -1072,6 +1073,7 @@
           },
           "constant": {
             "color": "#baa0f8"
+            // ADD
           },
           "constructor": {
             "color": "#ff6d7e"
@@ -1084,6 +1086,7 @@
           },
           "function": {
             "color": "#a2e57b"
+            // ADD
           },
           "keyword": {
             "color": "#ff6d7e"
@@ -1099,6 +1102,7 @@
           },
           "number": {
             "color": "#baa0f8"
+            // ADD
           },
           "operator": {
             "color": "#ff6d7e"
@@ -2976,6 +2980,7 @@
           },
           "comment": {
             "color": "#a59fa0",
+            "background_color": "#",
             "font_style": "italic"
           },
           "comment.doc": {
@@ -3212,10 +3217,12 @@
             "font_style": "italic"
           },
           "boolean": {
-            "color": "#6851a2"
+            "color": "#6851a2",
+            "background_color": "#6851a24d"
           },
           "comment": {
-            "color": "#a59c9c",
+            "color": "#c091d1",
+            "background_color": "#ac81bb26",
             "font_style": "italic"
           },
           "comment.doc": {
@@ -3250,7 +3257,8 @@
             "color": "#218871"
           },
           "number": {
-            "color": "#6851a2"
+            "color": "#6851a2",
+            "background_color": "#6851a24d"
           },
           "operator": {
             "color": "#ce4770"
@@ -3277,7 +3285,8 @@
             "color": "#92898a"
           },
           "string": {
-            "color": "#b16803"
+            "color": "#b16803",
+            "background_color": "#ffbf794d"
           },
           "string.escape": {
             "color": "#2c232e"
